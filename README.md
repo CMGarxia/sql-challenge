@@ -8,7 +8,7 @@ This is a database of employees in a corporation who worked during the 1980s and
 ### Entity Relationship Diagram
 The employee_erd.png displays the relationship and structures of tables in this database.
 
-![Employees_ERD](EmployeeSQL/employee_erd.png)
+![Employees_ERD]([EmployeeSQL/employee_erd.png](https://github.com/CMGarxia/sql-challenge/blob/main/%20EmployeeSQL/employee_erd.png))
 
 # Data Engineering 
 Six tables were created through SQL forby importing CSV files. 
